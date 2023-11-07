@@ -1,0 +1,2 @@
+O Culturama é um site para divulgação de eventos culturais. Foi desenvolvido durante o curso Praticando CSS: Grid e Flexbox, da Alura.
+O objetivo do projeto era praticar o uso do Flexbox e do Grid para criar um layout responsivo. O design do site foi baseado na metodologia mobile-first, com foco na experiência do usuário em dispositivos móveis.
